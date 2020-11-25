@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "email": "hey@gmail.com",
+      "password": "123",
+      "role": "student",
+      "id": 1
+    },
+    {
+      "email": "asahu@gmail.com",
+      "password": "1234",
+      "role": "teacher",
+      "id": 2
+    },
+    {
+      "email": "sahu@gmail.com",
+      "password": "1234",
+      "role": "student",
+      "id": 3
+    },
+    {
+      "email": "hey@gh.com",
+      "password": "1234",
+      "role": "teacher",
+      "id": 4
+    }
+  ]
+}
